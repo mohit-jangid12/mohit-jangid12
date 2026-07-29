@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Welcome+to+My+GitHub+Profile+%F0%9F%91%8B;Full+Stack+Web+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Welcome+to+My+GitHub+Profile+%F0%9F%91%8B;Full+Stack+Web+Developer;Building+Scalable+Web+Applications" alt="Typing SVG" />
 </div>
 
 ---
@@ -78,7 +78,9 @@ With a strong foundation in modern web technologies and a commitment to best pra
 
 <div align="center">
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=mohit-jangid12)
+![GitHub followers](https://img.shields.io/github/followers/mohit-jangid12?style=for-the-badge&color=00D9FF)
+![GitHub User's stars](https://img.shields.io/github/stars/mohit-jangid12?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=FFD700)
+![Profile views](https://komarev.com/ghpvc/?username=mohit-jangid12&style=for-the-badge&color=0e75b6)
 
 </div>
 
