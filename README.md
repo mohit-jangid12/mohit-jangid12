@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Welcome+to+My+GitHub+Profile+%F0%9F%91%8B;Full+Stack+Web+Developer;Building+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Welcome+to+My+GitHub+Profile+%F0%9F%91%8B;Full+Stack+Web+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 💫 About Me
 
-I'm a passionate **Full Stack Web Developer** currently working at **Bytescove Solutions Pvt Ltd**. I specialize in building **scalable, reliable, and user-friendly web applications** that solve real-world problems across diverse domains.
+I'm a passionate **Full Stack Web Developer** currently working at **Bytescove Solutions Pvt Ltd**. I specialize in building **scalable, reliable, and user-friendly web applications** that solve real-world problems.
 
 With a strong foundation in modern web technologies and a commitment to best practices, I deliver high-quality solutions that exceed client expectations.
 
@@ -17,9 +17,7 @@ With a strong foundation in modern web technologies and a commitment to best pra
 <div align="center">
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/Er%20Mohit%20Jangid)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-jangid-82786098/)
 
 </div>
 
@@ -68,11 +66,9 @@ With a strong foundation in modern web technologies and a commitment to best pra
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohit-jangid12&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/mohit-jangid12)
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mohit-jangid12&show_icons=true)](https://github.com/mohit-jangid12)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohit-jangid12&theme=tokyonight&hide_border=true)](https://github.com/mohit-jangid12)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohit-jangid12&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/mohit-jangid12)
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohit-jangid12&layout=compact)](https://github.com/mohit-jangid12)
 
 </div>
 
@@ -82,7 +78,7 @@ With a strong foundation in modern web technologies and a commitment to best pra
 
 <div align="center">
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=mohit-jangid12&theme=tokyonight&no-frame=true&margin-w=4)](https://github.com/mohit-jangid12)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=mohit-jangid12)
 
 </div>
 
@@ -92,7 +88,7 @@ With a strong foundation in modern web technologies and a commitment to best pra
 
 <div align="center">
 
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=mohit-jangid12&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mohit-jangid12&repo=mohit-jangid12)](https://github.com/mohit-jangid12/mohit-jangid12)
 
 </div>
 
@@ -100,10 +96,10 @@ With a strong foundation in modern web technologies and a commitment to best pra
 
 ## 🎯 What I Do
 
-- 🌐 **Web Development** - Full-stack solutions with modern frameworks
-- ⚙️ **Backend Engineering** - Scalable APIs and microservices
-- 🎨 **Frontend Design** - Responsive, user-centric interfaces
-- 🔐 **Database Design** - Efficient and secure data management
+- 🌐 **Web Development** - Full-stack solutions with modern frameworks  
+- ⚙️ **Backend Engineering** - Scalable APIs and microservices  
+- 🎨 **Frontend Design** - Responsive, user-centric interfaces  
+- 🔐 **Database Design** - Efficient and secure data management  
 - 🚀 **Performance Optimization** - Fast, reliable applications
 
 ---
@@ -114,8 +110,7 @@ I'm always interested in collaborating on exciting projects. Feel free to reach 
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:er.mohitjangid@gmail.com)
 
 </div>
 
@@ -123,7 +118,7 @@ I'm always interested in collaborating on exciting projects. Feel free to reach 
 
 <div align="center">
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=mohit-jangid12&icon=0&color=0)
+![Profile Views](https://komarev.com/ghpvc/?username=mohit-jangid12&label=Profile%20Views&color=0e75b6&style=flat)
 
 *Proudly created and maintained by Mohit Jangid*
 
