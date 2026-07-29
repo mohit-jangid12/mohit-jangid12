@@ -120,8 +120,6 @@ I'm always interested in collaborating on exciting projects. Feel free to reach 
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=mohit-jangid12&label=Profile%20Views&color=0e75b6&style=flat)
-
 *Proudly created and maintained by Mohit Jangid*
 
 </div>
